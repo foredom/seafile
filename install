@@ -1004,21 +1004,21 @@ cat <<EOF
 
   Deutsch
   -------------------------------------------
-  Mit diesem Skript können Sie die Adresse Ihres
-  Seafile Serves ändern. Das ist zum Beispiel nötig wenn
-  sich Ihre Domain- oder IP-Adresse geändert hat.
+  Mit diesem Skript kÃ¶nnen Sie die Adresse Ihres
+  Seafile Serves Ã¤ndern. Das ist zum Beispiel nÃ¶tig wenn
+  sich Ihre Domain- oder IP-Adresse geÃ¤ndert hat.
 
   Wird Seafile mit der falschen Adresse betrieben,
   funktioniert der Up- und Download von Dateien nicht.
 
   Soll der Server mittes Portweiterleitung erreichbar
-  sein, verwenden Sie bitte die öffentliche oder externe
-  IP Ihres Routers bzw. einen öffentlich Domainnamen.
+  sein, verwenden Sie bitte die Ã¶ffentliche oder externe
+  IP Ihres Routers bzw. einen Ã¶ffentlich Domainnamen.
 
   Bei Falscheingaben rufen Sie das Skript bitte erneut auf.
 
-  Der aktuelle Hostname wird vorausgefüllt. Ggf. einfach
-  ändern.
+  Der aktuelle Hostname wird vorausgefÃ¼llt. Ggf. einfach
+  Ã¤ndern.
 
 
   English
@@ -1082,7 +1082,7 @@ cat <<EOF
   -------------------------------------------
   Fertig! Der Seafile Server wurde neu gestartet.
 
-  Seahub sollte nun über https://${HOSTNAME} erreichbar sein.
+  Seahub sollte nun Ã¼ber https://${HOSTNAME} erreichbar sein.
 
 
   English
